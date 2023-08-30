@@ -1,2 +1,5 @@
 # imdb-predictor
-The goal of this project is to explore developing a model that can predict a film’s IMDb rating, solely using data available pre-release of the film
+
+With its enormous collection of movie information as well as millions of user contributors, the Internet Movie Database (IMDb) website is the 3rd most visited movie-related site worldwide, behind only Youtube and Netflix according to similarweb.com. Given its popularity, The IMDb rating system has become a widely accepted and trusted indicator of a film’s critical reception among consumers. A strong IMDb rating can generate positive word of mouth, drive ticket sales, and ultimately help the film achieve long-term success while a low IMDb rating can have the opposite effect, tanking the film’s reputation. 
+
+Given its widespread use and influence on consumer behaviour, IMDb ratings are an important metric for movie studios and distributors to consider. The goal of this project is to develop a model that can accurately predict a film’s IMDb rating, solely using data available pre-release of the film. This will help movie studios make informed decisions when planning and executing projects as well as provide valuable insights into the factors that contribute to a strong rating.
